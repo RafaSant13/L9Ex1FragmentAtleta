@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cadastro de Atletas</string>
+    <string name="atleta">Atleta</string>
+    <string name="juvenil">Juvenil</string>
+    <string name="senior">Sênior</string>
+    <string name="nome">Nome</string>
+    <string name="data">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="academia">Academia</string>
+    <string name="recorde">Recorde(s)</string>
+    <string name="anos">Anos de Prática</string>
+    <string name="problema">Tem problemas cardíacos?</string>
+    <string name="cadastro">Cadastro</string>
+
+</resources>
